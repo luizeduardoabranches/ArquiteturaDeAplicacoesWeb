@@ -13,10 +13,10 @@ Esta API permite que você controle acessos a determinadas partes do sistema a p
 
 ### Endpoints
 
-GET/moderador: localhost:8080/moderador
-GET/admin: localhost:8080/moderador
-GET/comum: localhost:8080/moderador
-GET/username: localhost:8080/moderador
+GET/moderador: localhost:8080/moderador <br>
+GET/admin: localhost:8080/moderador <br>
+GET/comum: localhost:8080/moderador <br>
+GET/username: localhost:8080/moderador <br>
 
 ### Instalação via [método de instalação]
 
