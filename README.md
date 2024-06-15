@@ -33,5 +33,18 @@ Os erros comuns da aplicação são esses:
 
 ## Diagrama
 
-<img width="500" alt="image" src="images/diagrrama.png">
+<img width="900" alt="image" src="images\diagrama.png">
+
+## Exemplos de uso
+
+<img width="900" alt="image" src="images\login.jpg">
+
+<img width="900" alt="image" src="images\comum.jpg">
+
+<img width="900" alt="image" src="images\moderador.jpg">
+
+<img width="900" alt="image" src="images\admin.jpg">
+
+<img width="900" alt="image" src="images\username.jpg">
+
 
