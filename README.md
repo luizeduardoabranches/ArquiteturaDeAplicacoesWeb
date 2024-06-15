@@ -6,24 +6,26 @@ Esta API permite que você controle acessos a determinadas partes do sistema a p
 
 - [Endpoints](#endpoints)
 - [Autenticação](#autenticação)
-- [Endpoints](#endpoints)
-- [Exemplos de Uso](#exemplos-de-uso)
 - [Erros Comuns](#erros-comuns)
-- [Licença](#licença)
+- [Diagrama](#diagrama)
+- [Exemplos de Uso](#exemplos-de-uso)
 
 ### Endpoints
 
-GET/moderador: localhost:8080/moderador <br>
-GET/admin: localhost:8080/moderador <br>
-GET/comum: localhost:8080/moderador <br>
+GET/moderador: localhost:8080/moderador
+
+GET/admin: localhost:8080/moderador 
+
+GET/comum: localhost:8080/moderador 
+
 GET/username: localhost:8080/moderador <br>
 
 ### Autenticação
 
-Esta API utiliza [o Jason Web Token (JWT) como chave de autenticação].
+Esta API utiliza o Jason Web Token (JWT) como chave de autenticação.
 
-### Instalação via [método de instalação]
+### Erros Comuns
 
-```sh
-# Comando para instalar a API
-$ [comando de instalação]
+Os erros comuns da aplicação são esses:
+ -[401 Unauthorized]: Significa que a senha ou o usuário estão incorretos.
+ -[403 Forbidden]: Isso acontece porque o usuário autenticado não possui a role especificada.
