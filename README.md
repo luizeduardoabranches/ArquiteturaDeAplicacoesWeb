@@ -30,3 +30,7 @@ Os erros comuns da aplicação são esses:
 
 - [401 Unauthorized]: Significa que a senha ou o usuário estão incorretos.
 - [403 Forbidden]: Isso acontece porque o usuário autenticado não possui a role especificada.
+
+## Diagrama
+
+
