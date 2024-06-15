@@ -33,4 +33,5 @@ Os erros comuns da aplicação são esses:
 
 ## Diagrama
 
+<img width="500" alt="image" src="images/diagrrama.png">
 
