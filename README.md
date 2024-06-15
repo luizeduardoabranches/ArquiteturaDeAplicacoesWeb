@@ -18,6 +18,10 @@ GET/admin: localhost:8080/moderador <br>
 GET/comum: localhost:8080/moderador <br>
 GET/username: localhost:8080/moderador <br>
 
+### Autenticação
+
+Esta API utiliza [o Jason Web Token (JWT) como chave de autenticação].
+
 ### Instalação via [método de instalação]
 
 ```sh
