@@ -10,7 +10,7 @@ Esta API permite que você controle acessos a determinadas partes do sistema a p
 - [Diagrama](#diagrama)
 - [Exemplos de Uso](#exemplos-de-uso)
 
-### Endpoints
+## Endpoints
 
 GET/moderador: localhost:8080/moderador
 
@@ -20,11 +20,11 @@ GET/comum: localhost:8080/moderador
 
 GET/username: localhost:8080/moderador <br>
 
-### Autenticação
+## Autenticação
 
 Esta API utiliza o Jason Web Token (JWT) como chave de autenticação.
 
-### Erros Comuns
+## Erros Comuns
 
 Os erros comuns da aplicação são esses:
 
