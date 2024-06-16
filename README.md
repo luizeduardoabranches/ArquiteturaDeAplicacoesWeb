@@ -14,11 +14,13 @@ Esta API permite que você controle acessos a determinadas partes do sistema a p
 
 GET/moderador: localhost:8080/moderador
 
-GET/admin: localhost:8080/moderador 
+GET/admin: localhost:8080/admin 
 
-GET/comum: localhost:8080/moderador 
+GET/comum: localhost:8080/comum 
 
-GET/username: localhost:8080/moderador <br>
+GET/username: localhost:8080/username/{token}
+
+POST/user: localhost:8080/login
 
 ## Autenticação
 
